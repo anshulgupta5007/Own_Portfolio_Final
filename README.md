@@ -1,4 +1,4 @@
-# Own_Portfolio_Final
+# Developer Portfolio
 
 A modern, responsive developer portfolio website built with HTML, CSS, and JavaScript.
 
