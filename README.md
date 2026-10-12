@@ -34,7 +34,7 @@ Project previews and resume links can be opened using the local server but it is
 
 Then visit:
 
-- [Portfolio Link](https://myportfolioproject-sigma.vercel.app/)
+- [Portfolio Link](https://anshulguptawebdevportfolio.vercel.app/)
 - [Resume File](https://drive.google.com/file/d/1orrFA-jOw6rzRXKWa9XGOEckEOAFocE4/view?usp=sharing)
 
 ### Project Previews
@@ -43,7 +43,7 @@ Then visit:
 |---------|-------------|
 | Image Gallery WebApp | https://code-alpha-image-gallery-woad.vercel.app/ |
 | Basic Calculator | https://basic-calculator-xi-jet.vercel.app/ |
-| Portfolio | https://myportfolioproject-sigma.vercel.app/ |
+| Portfolio | https://anshulguptawebdevportfolio.vercel.app/ |
 
 Click **Preview** on any project card to open its live demo in a new tab.
 
