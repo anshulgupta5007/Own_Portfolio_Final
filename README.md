@@ -30,7 +30,7 @@ A modern, responsive developer portfolio website built with HTML, CSS, and JavaS
 
 ## Running Locally
 
-Project previews and resume links can be opened using the local server but it is mainly operating using Vercel. Open the portfolio with: https://myportfolioproject-sigma.vercel.app/
+Project previews and resume links can be opened using the local server but it is mainly operating using Vercel. Open the portfolio with: (https://anshulguptawebdevportfolio.vercel.app/)
 
 Then visit:
 
